@@ -1,10 +1,6 @@
 #include <SoftwareSerial.h> 
 #include "MAX30100_PulseOximeter.h" 
 #include <TinyGPS++.h>
-#include "U8glib.h"
-
-U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_DEV_0 | U8G_I2C_OPT_NO_ACK | U8G_I2C_OPT_FAST); 
-char str[10];
 
 const byte button = 2;
 byte buttState;
