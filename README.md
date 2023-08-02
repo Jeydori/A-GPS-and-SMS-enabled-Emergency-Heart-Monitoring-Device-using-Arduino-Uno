@@ -6,8 +6,6 @@ cheap components are used like MAX30100, SIM800L, GPS NEO6MV2, OLED I2C, etc.
 
 **Introduction**
 
-## Introduction
-
 In today's rapidly advancing world, the convergence of technology and healthcare has paved the way for innovative solutions that can save lives in critical situations. In this tutorial, we will delve into the creation of an A-GPS and SMS enabled emergency heart monitoring device using the versatile Arduino Uno microcontroller. This project amalgamates multiple cutting-edge components to craft a wearable device capable of monitoring a person's heart rate and blood oxygen saturation (SpO2) in real time. In the event of an emergency, the device can swiftly transmit an SMS alert, complete with vital statistics and accurate GPS coordinates, to a designated recipient. 
 
 Our project centers around the following main components:
@@ -198,6 +196,7 @@ This source code combines different components and functionalities to create an 
 Here is the full sketch for further use:
    without oled:
       https://github.com/Jeydori/A-GPS-and-SMS-enabled-Emergency-Heart-Monitoring-Device-using-Arduino-Uno/blob/main/GPS%20and%20SMS%20Heart%20Monitoring%20Device%20(no%20oled).ino
+      
       sample video:
          https://github.com/Jeydori/A-GPS-and-SMS-enabled-Emergency-Heart-Monitoring-Device-using-Arduino-Uno/blob/main/GPS%20and%20SMS%20Heart%20Monitoring%20Device%20(no%20oled).mp4
 
