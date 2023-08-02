@@ -2,7 +2,7 @@
 #include "MAX30100_PulseOximeter.h" 
 #include <TinyGPS++.h>
 
-const byte button = 2;
+const byte button = 7;
 byte buttState;
 
 SoftwareSerial gpsSerial(8, 9); 
